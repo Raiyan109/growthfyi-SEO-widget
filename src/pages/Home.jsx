@@ -1,9 +1,9 @@
-import Navbar from '../components/Navbar';
+import AddUrl from '../components/AddUrl';
 
 const Home = () => {
     return (
         <div>
-            <Navbar />
+            <AddUrl />
         </div>
     );
 };
